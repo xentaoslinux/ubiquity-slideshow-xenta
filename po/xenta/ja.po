@@ -1,0 +1,323 @@
+# Japanese translation for linuxmint
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: https://launchpad.net/~linuxmint-translation-team-"
+"japanese\n"
+"POT-Creation-Date: 2016-12-07 15:15+0000\n"
+"PO-Revision-Date: 2017-02-27 14:10+0000\n"
+"Last-Translator: Hiroshi Tagawa <Unknown>\n"
+"Language-Team: Japanese <https://launchpad.net/~linuxmint-translation-team-"
+"japanese>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2017-11-03 11:38+0000\n"
+"X-Generator: Launchpad (build 18493)\n"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/chat.html:1
+msgid "Stay connected"
+msgstr "つながり続ける"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/chat.html:8
+msgid ""
+"Keep in touch with your friends and contacts, by email, messenger or on your "
+"favorite social networks. Xenta OS provides all you need to interact with "
+"Twitter, Facebook, MSN, ICQ, GoogleTalk, AIM, Yahoo and many other networks."
+msgstr ""
+"E "
+"メールやメッセンジャー、お気に入りのソーシャルネットワークを使って、お友達やご家族、同僚の方といつでも連絡を取ることができます。Twitter、Faceb"
+"ook、MSN、ICQ、GoogleTalk、AIM、Yahoo、その他数多くのネットワークサービスを利用するのに必要なものがすべて Linux "
+"Mint にはそろっています。"
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/mint/slides/chat.html:12 slideshows/mint/slides/music.html:12
+#: slideshows/mint/slides/office.html:12 slideshows/mint/slides/photos.html:12
+#: slideshows/mint/slides/software.html:12 slideshows/mint/slides/video.html:12
+#: slideshows/mint/slides/web.html:12 slideshows/mint/slides/windows.html:12
+msgid "Featured software"
+msgstr "注目のソフトウェア"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/chat.html:16
+msgid "Skype"
+msgstr "Skype"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/chat.html:20
+msgid "Thunderbird"
+msgstr "Thunderbird"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/chat.html:24
+msgid "Pidgin"
+msgstr "Pidgin"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/chat.html:28
+msgid "Hexchat"
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/customize.html:1
+msgid "Customize your desktop"
+msgstr "デスクトップをカスタマイズ"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/customize.html:8
+msgid ""
+"Make yourself at home and modify any aspect of your desktop. Choose from a "
+"large variety of themes, icons and backgrounds. Xenta OS is open and easy "
+"to customize."
+msgstr ""
+"デスクトップを思いのままに変更することができます。とても多くの種類のテーマやアイコン、背景を用意しています。Xenta OS "
+"はいつでも簡単にカスタマイズすることができます。"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/help.html:1
+msgid "Find help"
+msgstr "ヘルプを探す"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/help.html:8
+msgid ""
+"If you're curious about something or if you're facing a problem, simply ask "
+"around. Xenta OS is one of the most popular desktop Linux distributions "
+"and used by millions of people. It comes with a user guide, a community "
+"website, a collection of tutorials, active forums and chat rooms and one of "
+"the most dynamic communities on the Internet."
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/music.html:1
+msgid "Listen to music"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/music.html:8
+msgid "Enjoy your music, listen to podcasts and online radios."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/music.html:16
+msgid "Spotify"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/music.html:20
+msgid "Rhythmbox"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/music.html:24
+msgid "Audio codecs"
+msgstr "音声コーデック"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/office.html:1
+msgid "Be productive"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/office.html:8
+msgid ""
+"Use LibreOffice to create professional documents, spreadsheets and "
+"presentations that are fully compatible with Microsoft Office. Share "
+"printers or access them remotely."
+msgstr ""
+"LibreOffice を使って Microsoft Office "
+"と完全な互換性のあるプロフェッショナルな文書、スプレッドシート、プレゼンテーションを作成しましょう。 共有プリンタをリモートから利用することもできます。"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/office.html:16
+msgid "LibreOffice Writer"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/office.html:20
+msgid "LibreOffice Calc"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/office.html:24
+msgid "LibreOffice Impress"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/office.html:28
+msgid "LibreOffice Draw"
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/photos.html:1
+msgid "Manage your photos"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/photos.html:8
+msgid ""
+"Organize, enjoy and share your photos. Export your albums to share them with "
+"friends and family."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/photos.html:16
+msgid "Pix"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/photos.html:20
+msgid "Gimp"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/photos.html:24
+msgid "Inkscape"
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/software.html:1
+msgid "Install software"
+msgstr "ソフトウェアのインストール"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/software.html:8
+msgid ""
+"Browse through 30,000 free applications from the Software Manager. Enjoy "
+"screenshots and user reviews. Install software with one click of the mouse."
+msgstr ""
+"ソフトウェアマネージャでは 30,000 "
+"もの無料のアプリケーションをブラウズできます。スクリーンショットやユーザーレビューも閲覧できます。マウスクリック 1 "
+"つでソフトウェアのインストールが可能です。"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/software.html:16
+msgid "Steam"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/software.html:20
+msgid "Dropbox"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/software.html:24
+msgid "Blender"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/software.html:28
+msgid "Minecraft"
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/updates.html:1
+msgid "Keep your system up to date"
+msgstr "システムを常に最新に"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/updates.html:8
+msgid ""
+"Receive fixes and security updates all in one place, for the entire system, "
+"including the software you install."
+msgstr ""
+"あなたがインストールしたソフトも含む、システム全体の修正やセキュリティアップデートすべてを、1 "
+"つのアプリケーションでダウンロードして適用することができます。"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/video.html:1
+msgid "Watch videos and DVDs"
+msgstr "動画や DVD の再生"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/video.html:8
+msgid ""
+"Insert a DVD and enjoy a movie. Watch high-definition videos with VLC."
+msgstr "DVD を挿入し、映画を鑑賞しましょう。VLC ではハイビジョン動画を再生できます。"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/video.html:16
+msgid "VLC"
+msgstr "VLC"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/video.html:20
+msgid "Media Player"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/video.html:24
+msgid "Video codecs"
+msgstr "ビデオコーデック"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/web.html:1
+msgid "Browse the web"
+msgstr "ウェブの閲覧"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/web.html:8
+msgid ""
+"Be fast and safe on the web with Mozilla Firefox. Enjoy Java, Flash and "
+"multimedia content."
+msgstr ""
+"Mozilla Firefox を使用して快適で安全なウェブブラウジングを。Java や Flash、各種マルチメディアコンテンツを楽しむことができます。"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/web.html:16
+msgid "Firefox"
+msgstr "Firefox"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/web.html:20
+msgid "Flash"
+msgstr "Flash"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/web.html:24
+msgid "Java"
+msgstr "Java"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/welcome.html:1
+msgid "Welcome to Xenta OS"
+msgstr "Xenta OS へようこそ"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/welcome.html:8
+msgid ""
+"Welcome and thank you for choosing Xenta OS. This slideshow will show you "
+"around while the system is being installed on your computer."
+msgstr ""
+"Xenta OS を選んでいただき有り難うございます。コンピュータにインストールしている間、このスライドショーで Xenta OS "
+"について紹介します。"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/windows.html:1
+msgid "Run Windows software"
+msgstr "Windows のソフトウェアを実行する"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/windows.html:8
+msgid ""
+"Install Wine and run Windows software in Xenta OS. Or install Virtualbox, "
+"and run Windows itself within Xenta OS."
+msgstr ""
+"Wine をインストールすると Xenta OS 上で Windows のソフトウェアを実行することができます。Virtualbox "
+"をインストールして Xenta OS 内で Windows 自体を動かすことも可能です。"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/windows.html:16
+msgid "Wine"
+msgstr "Wine"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/windows.html:20
+msgid "Virtualbox"
+msgstr "Virtualbox"

@@ -1,0 +1,335 @@
+# Polish translation for linuxmint
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2016-12-07 15:15+0000\n"
+"PO-Revision-Date: 2017-05-24 13:44+0000\n"
+"Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
+"Language-Team: Polish <pl@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2017-11-03 11:38+0000\n"
+"X-Generator: Launchpad (build 18493)\n"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/chat.html:1
+msgid "Stay connected"
+msgstr "Pozostawaj w kontakcie"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/chat.html:8
+msgid ""
+"Keep in touch with your friends and contacts, by email, messenger or on your "
+"favorite social networks. Xenta OS provides all you need to interact with "
+"Twitter, Facebook, MSN, ICQ, GoogleTalk, AIM, Yahoo and many other networks."
+msgstr ""
+"Pozostawaj w kontakcie ze swoimi przyjaciółmi i znajomymi za pośrednictwem e-"
+"maila, komunikatora lub swojego ulubionego portalu społecznościowego. Linux "
+"Mint umożliwia Ci interakcje z serwisami Twitter, Facebook, MSN, ICQ, "
+"GoogleTalk, AIM, Yahoo i wieloma innymi."
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/mint/slides/chat.html:12 slideshows/mint/slides/music.html:12
+#: slideshows/mint/slides/office.html:12 slideshows/mint/slides/photos.html:12
+#: slideshows/mint/slides/software.html:12 slideshows/mint/slides/video.html:12
+#: slideshows/mint/slides/web.html:12 slideshows/mint/slides/windows.html:12
+msgid "Featured software"
+msgstr "Wspierane oprogramowanie"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/chat.html:16
+msgid "Skype"
+msgstr "Skype"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/chat.html:20
+msgid "Thunderbird"
+msgstr "Thunderbird"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/chat.html:24
+msgid "Pidgin"
+msgstr "Pidgin"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/chat.html:28
+msgid "Hexchat"
+msgstr "Hexchat"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/customize.html:1
+msgid "Customize your desktop"
+msgstr "Dostosuj swój pulpit"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/customize.html:8
+msgid ""
+"Make yourself at home and modify any aspect of your desktop. Choose from a "
+"large variety of themes, icons and backgrounds. Xenta OS is open and easy "
+"to customize."
+msgstr ""
+"Ugość się w swoim domu i modyfikuj wszystkie aspekty swojego pulpitu. "
+"Przebieraj spośród ogromnego wyboru motywów, ikon i tapet pulpitu. Linux "
+"Mint jest otwarty i łatwy w dostosowywaniu."
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/help.html:1
+msgid "Find help"
+msgstr "Znajdź pomoc"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/help.html:8
+msgid ""
+"If you're curious about something or if you're facing a problem, simply ask "
+"around. Xenta OS is one of the most popular desktop Linux distributions "
+"and used by millions of people. It comes with a user guide, a community "
+"website, a collection of tutorials, active forums and chat rooms and one of "
+"the most dynamic communities on the Internet."
+msgstr ""
+"Jeśli jesteś czegoś ciekawy, lub jeśli zmagasz się z jakimś problemem, po "
+"prostu zapytaj. Xenta OS jest jednym z najbardziej popularnych dystrybucji "
+"pulpitowych systemu Linux i jest używany przez miliony osób. Nieodłączna "
+"jemu jest instrukcja obsługi, społecznościowa strona internetowa, zbiór "
+"podręczników, aktywne forum i pokoje rozmów oraz jedna z najbardziej "
+"dynamicznych społeczności w Internecie."
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/music.html:1
+msgid "Listen to music"
+msgstr "Słuchaj muzyki"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/music.html:8
+msgid "Enjoy your music, listen to podcasts and online radios."
+msgstr "Ciesz się muzyką, słuchaj podcastów i radia online."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/music.html:16
+msgid "Spotify"
+msgstr "Spotify"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/music.html:20
+msgid "Rhythmbox"
+msgstr "Rythmbox odtwarzacz muzyki"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/music.html:24
+msgid "Audio codecs"
+msgstr "Kodeki dźwięku"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/office.html:1
+msgid "Be productive"
+msgstr "Bądź produktywny"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/office.html:8
+msgid ""
+"Use LibreOffice to create professional documents, spreadsheets and "
+"presentations that are fully compatible with Microsoft Office. Share "
+"printers or access them remotely."
+msgstr ""
+"Używaj LibreOffice, aby tworzyć profesjonalne dokumenty, arkusze "
+"kalkulacyjne i prezentacje, które są w pełni kompatybilne z Microsoft "
+"Office. Udostępniaj drukarki lub uzyskuj do nich zdalny dostęp."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/office.html:16
+msgid "LibreOffice Writer"
+msgstr "Edytor tekstu LibreOffice"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/office.html:20
+msgid "LibreOffice Calc"
+msgstr "Arkusze kalkulacyjne LibreOffice"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/office.html:24
+msgid "LibreOffice Impress"
+msgstr "Prezentacje LibreOffice"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/office.html:28
+msgid "LibreOffice Draw"
+msgstr "Rysowanie LibreOffice"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/photos.html:1
+msgid "Manage your photos"
+msgstr "Zarządzaj swoimi zdjęciami"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/photos.html:8
+msgid ""
+"Organize, enjoy and share your photos. Export your albums to share them with "
+"friends and family."
+msgstr ""
+"Organizuj, ciesz się i dziel swoimi zdjęciami. Eksportuj swoje albumy, aby "
+"dzielić się nimi z przyjaciółmi i rodziną."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/photos.html:16
+msgid "Pix"
+msgstr "Pix"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/photos.html:20
+msgid "Gimp"
+msgstr "GIMP"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/photos.html:24
+msgid "Inkscape"
+msgstr "Inkscape"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/software.html:1
+msgid "Install software"
+msgstr "Instaluj oprogramowanie"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/software.html:8
+msgid ""
+"Browse through 30,000 free applications from the Software Manager. Enjoy "
+"screenshots and user reviews. Install software with one click of the mouse."
+msgstr ""
+"Wybieraj spośród 30,000 wolnych i darmowych programów poprzez Menedżera "
+"oprogramowania. Korzystaj z poglądowych obrazów programów i recenzji "
+"użytkowników. Instaluj oprogramowanie za pomocą jednego kliknięcia myszki."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/software.html:16
+msgid "Steam"
+msgstr "Steam"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/software.html:20
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/software.html:24
+msgid "Blender"
+msgstr "Blender"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/software.html:28
+msgid "Minecraft"
+msgstr "Minecraft"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/updates.html:1
+msgid "Keep your system up to date"
+msgstr "Utrzymuj swój system aktualnym"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/updates.html:8
+msgid ""
+"Receive fixes and security updates all in one place, for the entire system, "
+"including the software you install."
+msgstr ""
+"Otrzymuj poprawki oraz aktualizacje bezpieczeństwa z jednego miejsca, dla "
+"całego systemu, włączając w to aktualizacje oprogramowania, które zostało "
+"zainstalowane."
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/video.html:1
+msgid "Watch videos and DVDs"
+msgstr "Oglądaj filmy wideo i DVD"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/video.html:8
+msgid ""
+"Insert a DVD and enjoy a movie. Watch high-definition videos with VLC."
+msgstr ""
+"Włóż płytę DVD i ciesz się filmem. Oglądaj filmy w wysokiej rozdzielczości z "
+"programem VLC."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/video.html:16
+msgid "VLC"
+msgstr "VLC"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/video.html:20
+msgid "Media Player"
+msgstr "Odtwarzacz multimediów"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/video.html:24
+msgid "Video codecs"
+msgstr "Kodeki wideo"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/web.html:1
+msgid "Browse the web"
+msgstr "Przeglądaj sieć"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/web.html:8
+msgid ""
+"Be fast and safe on the web with Mozilla Firefox. Enjoy Java, Flash and "
+"multimedia content."
+msgstr ""
+"Bądź szybki i bezpieczny w sieci z Mozilla Firefoxem. Ciesz się zawartością "
+"multimedialną stron opartą na Javie i Flashu."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/web.html:16
+msgid "Firefox"
+msgstr "Firefox"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/web.html:20
+msgid "Flash"
+msgstr "Flash"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/web.html:24
+msgid "Java"
+msgstr "Java"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/welcome.html:1
+msgid "Welcome to Xenta OS"
+msgstr "Witaj w Xenta OS"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/welcome.html:8
+msgid ""
+"Welcome and thank you for choosing Xenta OS. This slideshow will show you "
+"around while the system is being installed on your computer."
+msgstr ""
+"Witaj! Dziękujemy Ci za wybranie Xenta OS. Ten pokaz slajdów oprowadzi Cię "
+"po systemie, podczas gdy ten będzie instalowany na Twoim komputerze."
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/windows.html:1
+msgid "Run Windows software"
+msgstr "Uruchamiaj programy Windows"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/windows.html:8
+msgid ""
+"Install Wine and run Windows software in Xenta OS. Or install Virtualbox, "
+"and run Windows itself within Xenta OS."
+msgstr ""
+"Zainstaluj Wine i uruchamiaj programy Windows w Xenta OS. Bądź też "
+"zainstaluj Virtualbox i uruchamiaj sam system Windows wewnątrz Xenta OS."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/windows.html:16
+msgid "Wine"
+msgstr "Wine"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/windows.html:20
+msgid "Virtualbox"
+msgstr "VirtualBox"

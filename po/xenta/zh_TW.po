@@ -1,0 +1,309 @@
+# Chinese (Traditional) translation for xentaos
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the xentaos package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: xentaos\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2016-12-07 15:15+0000\n"
+"PO-Revision-Date: 2016-12-17 09:24+0000\n"
+"Last-Translator: tomoe_musashi <hkg.musashi@gmail.com>\n"
+"Language-Team: Chinese (Traditional) <zh_TW@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2017-11-03 11:38+0000\n"
+"X-Generator: Launchpad (build 18493)\n"
+
+#. type: Content of: <div><h1>
+#: slideshows/xenta/slides/chat.html:1
+msgid "Stay connected"
+msgstr "保持聯繫"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/xenta/slides/chat.html:8
+msgid ""
+"Keep in touch with your friends and contacts, by email, messenger or on your "
+"favorite social networks. Xenta OS provides all you need to interact with "
+"Twitter, Facebook, MSN, ICQ, GoogleTalk, AIM, Yahoo and many other networks."
+msgstr ""
+"用 email，通訊軟體，或在您喜歡的社群網站上與您的朋友和聯絡人保持聯繫。Xenta OS 能滿足您在 "
+"Twitter，Facebook，MSN，ICQ，GoogleTalk，AIM，Yahoo，或其他網路上與他人互動的所有需求。"
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/xenta/slides/chat.html:12 slideshows/xenta/slides/music.html:12
+#: slideshows/xenta/slides/office.html:12 slideshows/xenta/slides/photos.html:12
+#: slideshows/xenta/slides/software.html:12 slideshows/xenta/slides/video.html:12
+#: slideshows/xenta/slides/web.html:12 slideshows/xenta/slides/windows.html:12
+msgid "Featured software"
+msgstr "精選軟體"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/xenta/slides/chat.html:16
+msgid "Skype"
+msgstr "Skype"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/xenta/slides/chat.html:20
+msgid "Thunderbird"
+msgstr "Thunderbird"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/xenta/slides/chat.html:24
+msgid "Pidgin"
+msgstr "Pidgin"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/xenta/slides/chat.html:28
+msgid "Hexchat"
+msgstr "Hexchat"
+
+#. type: Content of: <div><h1>
+#: slideshows/xenta/slides/customize.html:1
+msgid "Customize your desktop"
+msgstr "自訂您的桌面"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/xenta/slides/customize.html:8
+msgid ""
+"Make yourself at home and modify any aspect of your desktop. Choose from a "
+"large variety of themes, icons and backgrounds. Xenta OS is open and easy "
+"to customize."
+msgstr "您可以調整桌面上的任何外觀，並從豐富多樣的佈景主題，圖示，與背景裡自由選擇。Xenta OS 是個開放且易於自訂的作業系統。"
+
+#. type: Content of: <div><h1>
+#: slideshows/xenta/slides/help.html:1
+msgid "Find help"
+msgstr "尋求協助"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/xenta/slides/help.html:8
+msgid ""
+"If you're curious about something or if you're facing a problem, simply ask "
+"around. Xenta OS is one of the most popular desktop Linux distributions "
+"and used by millions of people. It comes with a user guide, a community "
+"website, a collection of tutorials, active forums and chat rooms and one of "
+"the most dynamic communities on the Internet."
+msgstr ""
+"如果您有感到好奇的地方，或是遭遇到任何問題，請儘管發問。Xenta OS 是其中一個最受歡迎的 Linux "
+"發行版本，為數百萬人所用。它提供完善的使用者指南，社群網站，教學文庫，動態討論區，聊天室，與網際網路上最具活力的社群!"
+
+#. type: Content of: <div><h1>
+#: slideshows/xenta/slides/music.html:1
+msgid "Listen to music"
+msgstr "聆聽音樂"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/xenta/slides/music.html:8
+msgid "Enjoy your music, listen to podcasts and online radios."
+msgstr "享受您的音樂，聆聽播客和網路電台。"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/xenta/slides/music.html:16
+msgid "Spotify"
+msgstr "Spotify"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/xenta/slides/music.html:20
+msgid "Rhythmbox"
+msgstr "Rhythmbox"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/xenta/slides/music.html:24
+msgid "Audio codecs"
+msgstr "音訊編解碼器"
+
+#. type: Content of: <div><h1>
+#: slideshows/xenta/slides/office.html:1
+msgid "Be productive"
+msgstr "保持生產力"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/xenta/slides/office.html:8
+msgid ""
+"Use LibreOffice to create professional documents, spreadsheets and "
+"presentations that are fully compatible with Microsoft Office. Share "
+"printers or access them remotely."
+msgstr "使用 LibreOffice 來建立與 Microsoft Office 完全相容的專業文件，試算表，與簡報。分享或遠端控制印表機。"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/xenta/slides/office.html:16
+msgid "LibreOffice Writer"
+msgstr "LibreOffice Writer"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/xenta/slides/office.html:20
+msgid "LibreOffice Calc"
+msgstr "LibreOffice Calc"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/xenta/slides/office.html:24
+msgid "LibreOffice Impress"
+msgstr "LibreOffice Impress"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/xenta/slides/office.html:28
+msgid "LibreOffice Draw"
+msgstr "LibreOffice Draw"
+
+#. type: Content of: <div><h1>
+#: slideshows/xenta/slides/photos.html:1
+msgid "Manage your photos"
+msgstr "管理您的相片"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/xenta/slides/photos.html:8
+msgid ""
+"Organize, enjoy and share your photos. Export your albums to share them with "
+"friends and family."
+msgstr "組織，觀賞和分享您的相片。匯出您的相簿來與朋友或家人分享。"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/xenta/slides/photos.html:16
+msgid "Pix"
+msgstr "Pix"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/xenta/slides/photos.html:20
+msgid "Gimp"
+msgstr "Gimp"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/xenta/slides/photos.html:24
+msgid "Inkscape"
+msgstr "Inkscape"
+
+#. type: Content of: <div><h1>
+#: slideshows/xenta/slides/software.html:1
+msgid "Install software"
+msgstr "安裝軟體"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/xenta/slides/software.html:8
+msgid ""
+"Browse through 30,000 free applications from the Software Manager. Enjoy "
+"screenshots and user reviews. Install software with one click of the mouse."
+msgstr "您可以在軟體管理員瀏覽超過 30,000 個免費的應用程式，並享受螢幕截圖與使用者評論。安裝軟體僅需點擊一下滑鼠。"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/xenta/slides/software.html:16
+msgid "Steam"
+msgstr "Steam"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/xenta/slides/software.html:20
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/xenta/slides/software.html:24
+msgid "Blender"
+msgstr "Blender"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/xenta/slides/software.html:28
+msgid "Minecraft"
+msgstr "Minecraft"
+
+#. type: Content of: <div><h1>
+#: slideshows/xenta/slides/updates.html:1
+msgid "Keep your system up to date"
+msgstr "讓您的系統保持最新"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/xenta/slides/updates.html:8
+msgid ""
+"Receive fixes and security updates all in one place, for the entire system, "
+"including the software you install."
+msgstr "在同一個地方接收整個系統 (包含您所安裝的軟體) 的修復與安全性更新。"
+
+#. type: Content of: <div><h1>
+#: slideshows/xenta/slides/video.html:1
+msgid "Watch videos and DVDs"
+msgstr "觀賞影片與 DVD"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/xenta/slides/video.html:8
+msgid ""
+"Insert a DVD and enjoy a movie. Watch high-definition videos with VLC."
+msgstr "插入 DVD 並觀賞電影。使用 VLC 觀賞高畫質影片。"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/xenta/slides/video.html:16
+msgid "VLC"
+msgstr "VLC"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/xenta/slides/video.html:20
+msgid "Media Player"
+msgstr "媒體播放器"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/xenta/slides/video.html:24
+msgid "Video codecs"
+msgstr "視訊編解碼器"
+
+#. type: Content of: <div><h1>
+#: slideshows/xenta/slides/web.html:1
+msgid "Browse the web"
+msgstr "瀏覽網路"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/xenta/slides/web.html:8
+msgid ""
+"Be fast and safe on the web with Mozilla Firefox. Enjoy Java, Flash and "
+"multimedia content."
+msgstr "使用 Mozilla Firefox 瀏覽網站既快速又安全。盡情享受 Java，Flash，與多媒體內容。"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/xenta/slides/web.html:16
+msgid "Firefox"
+msgstr "Firefox"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/xenta/slides/web.html:20
+msgid "Flash"
+msgstr "Flash"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/xenta/slides/web.html:24
+msgid "Java"
+msgstr "Java"
+
+#. type: Content of: <div><h1>
+#: slideshows/xenta/slides/welcome.html:1
+msgid "Welcome to Xenta OS"
+msgstr "歡迎使用 Xenta OS"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/xenta/slides/welcome.html:8
+msgid ""
+"Welcome and thank you for choosing Xenta OS. This slideshow will show you "
+"around while the system is being installed on your computer."
+msgstr "歡迎! 感謝您選擇 Xenta OS。當系統安裝至您的電腦時，幻燈片放映會帶領您進⼊ Xenta OS 的世界。"
+
+#. type: Content of: <div><h1>
+#: slideshows/xenta/slides/windows.html:1
+msgid "Run Windows software"
+msgstr "執行 Windows 軟體"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/xenta/slides/windows.html:8
+msgid ""
+"Install Wine and run Windows software in Xenta OS. Or install Virtualbox, "
+"and run Windows itself within Xenta OS."
+msgstr ""
+"安裝 Wine 並在 Xenta OS 執行 Windows 軟體。您也可以安裝 Virtualbox 以在 Xenta OS 執行 "
+"Windows。"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/xenta/slides/windows.html:16
+msgid "Wine"
+msgstr "Wine"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/xenta/slides/windows.html:20
+msgid "Virtualbox"
+msgstr "Virtulbox"
