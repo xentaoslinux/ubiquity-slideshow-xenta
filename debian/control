@@ -2,11 +2,11 @@ Source: ubiquity-slideshow-xenta
 Section: x11
 Priority: optional
 Maintainer: Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
-Build-Depends: cdbs, debhelper (>= 5)
-Build-Depends-Indep: po4a, python-utidylib, python
-Standards-Version: 3.9.4
 Homepage: https://github.com/xentaos/ubiquity-slideshow-xenta
 Vcs-Browser: https://github.com/xentaos/ubiquity-slideshow-xenta.git
+Standards-Version: 3.9.7
+Build-Depends: cdbs, debhelper (>= 5)
+Build-Depends-Indep: po4a, python-utidylib, python
 
 Package: ubiquity-slideshow-xenta
 Architecture: all
