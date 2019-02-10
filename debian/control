@@ -1,9 +1,9 @@
 Source: ubiquity-slideshow-xenta
 Section: x11
 Priority: optional
-Maintainer: Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
-Homepage: https://github.com/xentaos/ubiquity-slideshow-xenta
-Vcs-Browser: https://github.com/xentaos/ubiquity-slideshow-xenta.git
+Maintainer: Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>
+Homepage: https://github.com/xentaoslinux/ubiquity-slideshow-xenta
+Vcs-Browser: https://github.com/xentaoslinux/ubiquity-slideshow-xenta.git
 Standards-Version: 3.9.7
 Build-Depends: cdbs, debhelper (>= 5)
 Build-Depends-Indep: po4a, python-utidylib, python
