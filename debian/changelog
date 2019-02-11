@@ -1,3 +1,10 @@
+ubiquity-slideshow-xenta (99xenta20) batik; urgency=medium
+
+  * Pembaharuan berkas debian
+  * Perbaikan slide
+
+ -- Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>  Mon, 11 Feb 2019 19:12:19 +0700
+
 ubiquity-slideshow-xenta (99xenta14) arok; urgency=medium
 
   * Membuat Slideshow dan Rancangan Slide
